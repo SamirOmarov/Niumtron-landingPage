@@ -1,0 +1,8 @@
+.features-tiles-item-image {
+	display: inline-flex;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	border-radius: 50%;
+	background-color: get-color(primary, 1);
+	background-image: linear-gradient(45deg, get-color(primary, 3) 20%, get-color(primary, 1) 80%);
+}

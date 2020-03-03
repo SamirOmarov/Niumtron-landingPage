@@ -1,0 +1,77 @@
+[class*=illustration-] {
+	position: relative;
+
+	&::after {
+		pointer-events: none;
+	}
+}
+
+[class*=illustration-element-]::after {
+	z-index: -1;
+}
+
+[class*=illustration-section-]::after {
+	z-index: -2;
+}
+
+// Hero illustration
+.illustration-section-01::after {
+	@include illustration('illustration-section-01.svg', 100%, 765px, top);
+}
+
+// Generic section illustrations
+.illustration-section-02::after {
+	@include illustration('illustration-section-02.svg', 100%, 356px, bottom);
+}
+
+.illustration-section-03::after {
+	@include illustration('illustration-section-03.svg', 100%, 270px, top);
+}
+
+.illustration-section-04::after {
+	@include illustration('illustration-section-04.svg', 100%, 325px, top, null, -120px);
+}
+
+.illustration-section-05::after {
+	@include illustration('illustration-section-05.svg', 100%, 304px, top);
+}
+
+.illustration-section-06::after {
+	@include illustration('illustration-section-06.svg', 100%, 288px, top);
+}
+
+.illustration-section-07::after {
+	@include illustration('illustration-section-07.svg', 100%, 274px, top);
+}
+
+// Pricing section illustration
+.illustration-section-08::after {
+	@include illustration('illustration-section-08.svg', 200%, 840px, center, null, 15px);
+}
+
+// Footer illustration
+.illustration-section-09::after {
+	@include illustration('illustration-section-09.svg', 100%, 131px, bottom);
+}
+
+// Behind hero figure
+.illustration-element-01::after {
+	@include illustration('illustration-element-01.svg', 200%, 200%);
+}
+
+.illustration-element-02::after {
+	@include illustration('illustration-element-02.svg', 200%, 200%);
+}
+
+// Behind features split image
+.illustration-element-03::after {
+	@include illustration('illustration-element-03.svg', 200%, 200%);
+}
+
+.illustration-element-04::after {
+	@include illustration('illustration-element-04.svg', 200%, 200%);
+}
+
+.illustration-element-05::after {
+	@include illustration('illustration-element-05.svg', 200%, 200%);
+}

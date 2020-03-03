@@ -1,0 +1,4 @@
+.button {
+	@include font-family(heading);
+	box-shadow: 0 8px 20px rgba(get-color(dark, 1), .32);
+}

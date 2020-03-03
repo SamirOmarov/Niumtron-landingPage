@@ -1,0 +1,24 @@
+.team-item-role {
+	@include font-family(heading);
+}
+
+@include media( '>1005px' ) { // 1005px may need to e adjusted if testimonial items width or outer padding change
+	.team {
+
+		.tiles-wrap {
+			padding-bottom: 64px;
+		}
+
+		.tiles-item {
+			position: relative;
+
+			&:nth-child(3n+2) {
+				top: 32px;
+			}
+
+			&:nth-child(3n+3) {
+				top: 64px;
+			}
+		}
+	}
+}

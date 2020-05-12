@@ -34,7 +34,7 @@
                                     User friendly
                                 </h4>
                                 <p class="m-0 text-sm">
-                                    A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.
+                               Works with the push of a button. 
                                 </p>
                             </div>
                         </div>
@@ -53,10 +53,10 @@
                             </div>
                             <div class="features-tiles-item-content">
                                 <h4 class="mt-0 mb-8">
-                                    User friendly
+                                   Autosteer
                                 </h4>
                                 <p class="m-0 text-sm">
-                                    A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.
+                                   Assists in steering within a clearly marked lane, and uses traffic-aware cruise control.
                                 </p>
                             </div>
                         </div>
@@ -75,10 +75,10 @@
                             </div>
                             <div class="features-tiles-item-content">
                                 <h4 class="mt-0 mb-8">
-                                    User friendly
+                                    Traffic-Aware Cruise Control
                                 </h4>
                                 <p class="m-0 text-sm">
-                                    A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.
+                               Matches the speed of your car to that of the surrounding traffic.
                                 </p>
                             </div>
                         </div>
@@ -97,10 +97,10 @@
                             </div>
                             <div class="features-tiles-item-content">
                                 <h4 class="mt-0 mb-8">
-                                    User friendly
+                                   Lane Change
                                 </h4>
                                 <p class="m-0 text-sm">
-                                    A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.
+                               Assists in moving to an adjacent lane on the highway when Autosteer is engaged.
                                 </p>
                             </div>
                         </div>
@@ -119,10 +119,10 @@
                             </div>
                             <div class="features-tiles-item-content">
                                 <h4 class="mt-0 mb-8">
-                                    User friendly
+                                  Automatic Emergency Braking 
                                 </h4>
                                 <p class="m-0 text-sm">
-                                    A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.
+                               Detects cars or obstacles that the car may impact and applies the brakes accordingly.
                                 </p>
                             </div>
                         </div>
@@ -141,10 +141,10 @@
                             </div>
                             <div class="features-tiles-item-content">
                                 <h4 class="mt-0 mb-8">
-                                    User friendly
+                               Blind Spot Monitoring 
                                 </h4>
                                 <p class="m-0 text-sm">
-                                    A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise design.
+                               Warns when a car or obstacle is detected when changing lanes.
                                 </p>
                             </div>
                         </div>

@@ -33,7 +33,7 @@
                             </div>
                             <div class="testimonial-item-content">
                                 <p class="m-0">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident.
+                                "It's exactly what I've been looking for. Man, this thing is getting better and better as I learn more about it. Absolutely wonderful! Buy this now. " 
                                 </p>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
 
                     <c-carousel-item class="tiles-item">
                         <div class="tiles-item-inner">
-                            <div class="testimonial-item-header mb-16">
+                            <div class="testimonial-item-header mb-16 ">
                                 <div class="testimonial-item-image">
                                     <c-image
                                         :src="require('@/assets/images/testimonial-image-02.png')"
@@ -52,7 +52,7 @@
                             </div>
                             <div class="testimonial-item-content">
                                 <p class="m-0">
-                                    Excepteur sint occaecat cupidatat non proident. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                   "The best on the net! Not able to tell you how happy I am with cruise control. I'd be lost without cruise control." 
                                 </p>
                             </div>
                         </div>
@@ -71,7 +71,7 @@
                             </div>
                             <div class="testimonial-item-content">
                                 <p class="m-0">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident.
+                                   "Your company is truly upstanding and is behind its product 100%. It really saves me time and effort. lane assist is exactly what our business has been lacking. Not able to tell you how happy I am with lane assist." 
                                 </p>
                             </div>
                         </div>

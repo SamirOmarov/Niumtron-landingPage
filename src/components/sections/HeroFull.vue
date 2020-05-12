@@ -14,11 +14,11 @@
                 ]">
                 <div class="hero-content">
                     <h1 class="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-                        Innovation through Design & Techonology
+                      Future of Driving
                     </h1>
                     <div class="container-xs">
                         <p class="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                            Niumtron is a development and design company that focuses on innovation.
+                            Niumtron is a research and development company that focuses on innovation.
                         </p>
                         <!-- <div class="reveal-from-bottom" data-reveal-delay="600">
                             <c-button tag="a" color="primary" href="https://cruip.com/">
@@ -30,10 +30,9 @@
                 <div class="hero-figure illustration-element-01 reveal-from-bottom" data-reveal-value="20px" data-reveal-delay="800">
                     <c-image
                         class="has-shadow"
-                        :src="require('@/assets/images/hero-image.png')"
+                        :src="require('@/assets/anim.gif')"
                         alt="Hero"
-                        :width="896"
-                        :height="504" />
+                         />
                 </div>
             </div>
         </div>

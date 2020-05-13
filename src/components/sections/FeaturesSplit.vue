@@ -36,12 +36,12 @@
                                 alt="Features split image 01"
                                 :width="528"
                                 :height="396" />
-                            <div style="position:absolute;width:117.8%;max-width:117.8%;top:-9.9%;left:-5.87%;">
+                            <div style="position:absolute;width:117.8%;max-width:117.8%;top:-4.9%;left:-5.87%;">
                                 <c-image
-                                    :src="require('@/assets/images/features-split-top-01.png')"
+                                    :src="require('@/assets/images/sensors.jpg')"
                                     alt="Features split top 01"
                                     :width="622"
-                                    :height="510" />
+                                    :height="320" />
                             </div>
                         </div>
                     </div>
